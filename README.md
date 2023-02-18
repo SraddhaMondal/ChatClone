@@ -1,5 +1,5 @@
-# ChatClone
-Hi, This is a Chat Clone. It used React Js, NodeJs, and MongoDB for built project.
+# Whatsapp Clone
+Hi, This is a Whatsapp Web Clone. I used React Js, NodeJs, ExpressJs and MongoDB to built the project.
 Please find the screenshot for the project reference.
 
 
